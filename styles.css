@@ -7,19 +7,19 @@
 }
 .moviePic{
 	height:auto;
-	width:1000px;
+	width:600px;
 	opacity:0.5;
+	position-size:center;
 }
 
 .movieDetail{
-
+position:fixed;
 	top:auto;
 	width:50px;
 	text-align:centre;
 font-size:20px;
 	
 }
-.movieDetails
 
 
 
