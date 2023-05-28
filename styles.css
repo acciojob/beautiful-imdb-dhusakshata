@@ -13,11 +13,12 @@
 }
 
 .movieDetail{
-position:fixed;
+position:absolute;
 	top:auto;
 	width:50px;
 	text-align:centre;
 font-size:20px;
+	align-content:center;
 	
 }
 
