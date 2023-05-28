@@ -3,16 +3,27 @@
 *{
 	margin:0;
 	padding:0;
+	background-color:pink;
 }
 .moviePic{
 	height:auto;
-	width:100%;
+	width:1000px;
 	opacity:0.5;
 }
-movieDetails{
-position:absolute;
+
+.movieDetail{
+
 	top:auto;
 	width:50px;
 	text-align:centre;
-font-size:400px;
+font-size:20px;
+	
 }
+.movieDetails
+
+
+
+
+
+
+
