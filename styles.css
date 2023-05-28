@@ -1,8 +1,12 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0;
+	padding:0;
+}
 .moviePic{
-	height:200px;
-	width:500px;
+	height:auto;
+	width:100%;
 	opacity:0.5;
 }
 movieDetails{
@@ -10,5 +14,5 @@ position:absolute;
 	top:auto;
 	width:50px;
 	text-align:centre;
-font-size:300px;
+font-size:400px;
 }
